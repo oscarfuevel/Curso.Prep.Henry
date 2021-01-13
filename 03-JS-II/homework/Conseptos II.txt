@@ -1,0 +1,11 @@
+// Escribe explicaciones de los siguientes conceptos
+
+// for: es un bucle utilizado para repetir código un número determinado de veces hasta 
+// que devulva lo que estamos buscan o necesitamo.
+
+// `&&`: Es un operador lógico que se encarga de evaluar dos expreciones, 
+//      si las dos son verdaderas devolvera true y si alguna de las dos es falsa devolvera folse.
+// `||`: Operador lógico que sirve para determinar si una de las expreciones es verdadera. 
+//      Devolvera true si una o ambas es true, y devolvera folse si ambas expreciones son falsas
+// `!`: Es un operador de comparación que significa que estamos preguntado 
+//      lo contrario a lo que la exprecion se refiere
