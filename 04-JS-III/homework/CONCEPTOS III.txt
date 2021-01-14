@@ -1,0 +1,4 @@
+escribe explicaciones de los siguientes conceptos
+
+//  * ARRAYS: nos permiten guardar varias variables y acceder a ellas de manera independiente, es como tener 
+              una variable con distintos compartimentos donde podemos introducir datos distintos.
