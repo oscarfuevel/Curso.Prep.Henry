@@ -1,0 +1,21 @@
+// Escribe explicaciones de los siguientes conceptos:
+//  * Variables: Espacio donde podemos guardar cualquier tipo de información que necesitemos 
+//               para realizar las acciones de nuestros programas.
+
+//	* Strings: Es una cadena texto puede estar compuesto de números, letras y cualquier otro
+               tipo de caracteres y signos. Los Strinds se escriben entre comillas, dobles o simples.
+
+//	* Funciones: Una función es un conjunto de instrucciones que se agrupan para realizar una tarea 
+                 concreta y que se pueden reutilizar fácilmente. 
+
+//  * Argumentos: Se usan para mandar valores a las funciones.
+
+//  * Return: Finaliza la ejecución de la función y especifica un valor para ser devuelto a quien 
+              llama a la función.
+
+//	* Declaraciones `if`: Es un condicional que sirve para realizar unas u otras operaciones en función 
+                          de una expresión.
+
+//	* Valores booleanos (`true`, `false`): Esta clase nos sirve para crear valores boleanos, dependiendo 
+                                           de lo que se reciba el valor del objeto boleano que se crea será 
+                                           verdadero o falso.
