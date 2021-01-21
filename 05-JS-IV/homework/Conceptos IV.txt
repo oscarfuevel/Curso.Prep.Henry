@@ -1,0 +1,15 @@
+Escribe explicaciones de los siguientes conceptos:
+
+// * Objetos: Es un contenedor de propiedades, donde la propiedad tiene un nombre y un valor.
+             El nombre de una propiedad puede ser una cadena de caracteres, incluso una vacía. 
+             El valor de la propiedad puede ser cualquier valor que podamos utilizar en JavaScript,
+             excepto undefined.
+
+// * Propiedades: Es el nombre que recibe las variables dentro de los objetos.
+
+// * Métodos: Son funciones guardadas en los objetos.
+
+// * Bucle for…in: Su papel principal es el de recorrer un objeto pasando por cada una de sus 
+                   propiedades para actuar sobre ellas de alguna manera.
+
+Notación de puntos vs notación de corchetes
